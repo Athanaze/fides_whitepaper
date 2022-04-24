@@ -1,0 +1,286 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.4.20)  24 APR 2022 17:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex -o out.pdf
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/share/texmf-dist/tex/latex/paper/paper.cls
+Document Class: paper 2008/05/30 1.0l LaTeX document class (wm).
+\hours=\count185
+\minutes=\count186
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\beforetitlespace=\skip47
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\exampleindent=\skip48
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip51
+\cftbeforetoctitleskip=\skip52
+\cftaftertoctitleskip=\skip53
+\cftbeforepartskip=\skip54
+\cftpartnumwidth=\skip55
+\cftpartindent=\skip56
+\cftbeforesecskip=\skip57
+\cftsecindent=\skip58
+\cftsecnumwidth=\skip59
+\cftbeforesubsecskip=\skip60
+\cftsubsecindent=\skip61
+\cftsubsecnumwidth=\skip62
+\cftbeforesubsubsecskip=\skip63
+\cftsubsubsecindent=\skip64
+\cftsubsubsecnumwidth=\skip65
+\cftbeforeparaskip=\skip66
+\cftparaindent=\skip67
+\cftparanumwidth=\skip68
+\cftbeforesubparaskip=\skip69
+\cftsubparaindent=\skip70
+\cftsubparanumwidth=\skip71
+\cftbeforeloftitleskip=\skip72
+\cftafterloftitleskip=\skip73
+\cftbeforefigskip=\skip74
+\cftfigindent=\skip75
+\cftfignumwidth=\skip76
+\c@lofdepth=\count195
+\c@lotdepth=\count196
+\cftbeforelottitleskip=\skip77
+\cftafterlottitleskip=\skip78
+\cftbeforetabskip=\skip79
+\cfttabindent=\skip80
+\cfttabnumwidth=\skip81
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+
+(/usr/share/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks19
+)
+(/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box50
+\beforetitleunit=\skip82
+\aftertitleunit=\skip83
+\ttl@plus=\dimen149
+\ttl@minus=\dimen150
+\ttl@toksa=\toks20
+\titlewidth=\dimen151
+\titlewidthlast=\dimen152
+\titlewidthfirst=\dimen153
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box51
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen154
+\scratchbox=\box52
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen155
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(81.94394pt, 433.62pt, 81.94394pt)
+* v-part:(T,H,B)=(63.39273pt, 686.56499pt, 95.08913pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=433.62pt
+* \textheight=686.56499pt
+* \oddsidemargin=9.67395pt
+* \evensidemargin=9.67395pt
+* \topmargin=-45.87726pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<16_nodes_fully_connected.png, id=1, 692.3466pt x 730.6497pt>
+File: 16_nodes_fully_connected.png Graphic file (type png)
+<use 16_nodes_fully_connected.png>
+Package pdftex.def Info: 16_nodes_fully_connected.png  used on input line 24.
+(pdftex.def)             Requested size: 216.81pt x 228.79572pt.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./16_nodes_fully_connected
+.png>]
+No file main.toc.
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+[2]
+<fides_flowchart.png, id=19, 4406.4625pt x 2966.08125pt>
+File: fides_flowchart.png Graphic file (type png)
+<use fides_flowchart.png>
+Package pdftex.def Info: fides_flowchart.png  used on input line 74.
+(pdftex.def)             Requested size: 433.62pt x 291.87334pt.
+ [3 <./fides_flowchart.png>] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 3161 strings out of 478276
+ 47222 string characters out of 5853013
+ 362365 words of memory out of 5000000
+ 21378 multiletter control sequences out of 15000+600000
+ 471721 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,604b,151s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (4 pages, 752724 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
